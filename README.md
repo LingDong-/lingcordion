@@ -19,6 +19,8 @@ This repo hosts the design files of the PCB, source code for the firmware, and C
 
 [Here's a video of me playing the instrument.](doc/v01.mp4)
 
+https://github.com/user-attachments/assets/264b68fd-24f3-4782-8792-03d39f5a074a
+
 ## BOM
 
 - 28 limit switches
