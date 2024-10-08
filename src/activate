@@ -1,0 +1,4 @@
+export IDF_PATH=$(realpath ../../../)/esp/esp-idf
+export PATH=$IDF_PATH/tools:$PATH
+
+. $HOME/proj/esp/esp-idf/export.sh;
