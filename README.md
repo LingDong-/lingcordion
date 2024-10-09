@@ -21,6 +21,9 @@ This repo hosts the design files of the PCB, source code for the firmware, and C
 
 https://github.com/user-attachments/assets/264b68fd-24f3-4782-8792-03d39f5a074a
 
+- The index, middle, ring and (optionally) pinky fingers go between the strap and the palm rest, to play note keys on the front side.
+- The thumbs press and hold modifier keys on the back side.
+
 ## BOM
 
 - 28 limit switches
